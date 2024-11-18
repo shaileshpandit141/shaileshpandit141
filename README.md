@@ -63,7 +63,7 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ## Most Starred Repositories
 
-![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=shaileshpandit141&repo=repo-name&theme=radical)
+![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=shaileshpandit141&repo=my-awesome-project&theme=radical)
 
 ---
 
