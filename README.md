@@ -45,8 +45,25 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ## 📈 **GitHub Stats**
 
-![🔥 Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshpandit141&show_icons=true&theme=radical)
-![🚀 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshpandit141&layout=compact&theme=radical)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshpandit141&show_icons=true&count_private=true&theme=radical)
+
+## Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshpandit141&layout=compact&theme=radical)
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaileshpandit141&theme=radical)
+
+## Recent Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shaileshpandit141&theme=github)
+
+## Most Starred Repositories
+
+![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=shaileshpandit141&repo=repo-name&theme=radical)
 
 ---
 
