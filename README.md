@@ -1,4 +1,4 @@
-![Banner Image](banner-image.jpeg)
+![Banner Image](banner-image.png)
 
 # 👋 Hi there! I'm **Shailesh**
 **⚡ Full Stack Web Developer | 🐍 Django | ⚛️ React | 🟨 JavaScript | 💙 TypeScript | 🔄 Redux**
@@ -37,8 +37,8 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 *cam (core app manager) cli is a command-line tool for creating boilerplate code for various types of applications including vanilla JavaScript frontend web apps, Python modules, Flask apps, etc.*
 **🛠️ Tech Stack:** Python
 
-### 🔹 [🔒 Django and React Boilerplate with JWT Authentication](https://github.com/shaileshpandit141/django-react-boilerplate)
-*This project is a boilerplate for setting up a web application using Django for the backend with JWT (JSON Web Token) authentication, and React for the frontend.*
+### 🔹 [🔒 Django, React and TypeScript Boilerplate with JWT Authentication](https://github.com/shaileshpandit141/django-react-typescript-boilerplate)
+*This project is a boilerplate for setting up a web application using Django for the backend with JWT (JSON Web Token) authentication, and React with TypeScript for the frontend.*
 **🛠️ Tech Stack:** Django, React, Redux
 
 ---
