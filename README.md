@@ -31,18 +31,6 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ---
 
-## 🏗️ **Project Highlights**
-
-### 🔹 [🛠️ Cam-CLI](https://github.com/shaileshpandit141/cam-cli)
-*cam (core app manager) cli is a command-line tool for creating boilerplate code for various types of applications including vanilla JavaScript frontend web apps, Python modules, Flask apps, etc.*
-**🛠️ Tech Stack:** Python
-
-### 🔹 [🔒 Django, React and TypeScript Boilerplate with JWT Authentication](https://github.com/shaileshpandit141/django-react-typescript-boilerplate)
-*This project is a boilerplate for setting up a web application using Django for the backend with JWT (JSON Web Token) authentication, and React with TypeScript for the frontend.*
-**🛠️ Tech Stack:** Django, React, Redux
-
----
-
 ## 📈 **GitHub Stats**
 
 ## GitHub Stats
@@ -60,3 +48,4 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 - 🐦 [Twitter](https://twitter.com/shaileshonx)
 - 💌 [Email](mailto:shaileshpandit141@gmail.com)
 - 📚 [LinkedIn](https://linkedin.com/in/shaileshpandit141)
+
