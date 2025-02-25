@@ -21,13 +21,13 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 | 🛠️ **Problem Solver**       | Proficient in designing and implementing RESTful APIs, managing application state, and creating intuitive UX/UI designs. |
 | 🌈 **Driven by Excellence** | Strives to deliver high-quality work in every project, ensuring robust and scalable applications. |
 
-## `🛠️ Tech Stack & Skills`
+## `🛠️ Tech Stack and Skills`
 
-| **Category**             | **Technologies**                                                                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Frontend**             | **React.js**, **JavaScript**, **TypeScript**, **Redux Toolkit**, **HTML5**, **CSS3**                         |
-| **Backend**              | **Django**, **Django REST Framework**, **PostgreSQL**, **SimpleJWT**                                             |
-| **Tools & Other Skills** | **Git & GitHub**, **Webpack**, ⚡ **Axios**, **React Router**, **Linux Environments**, **Deployment Workflows** |
+| **Category**             | **Technologies**                                                                                             | **Important Topics**                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| **Frontend**             | **React.js**, **JavaScript**, **TypeScript**, **Redux Toolkit**, **HTML5**, **CSS3**                         | Component Lifecycle, State Management, Hooks, Responsive Design                  |
+| **Backend**              | **Django**, **Django REST Framework**, **PostgreSQL**, **SimpleJWT**                                         | RESTful APIs, Authentication, ORM, Database Migrations                           |
+| **Tools & Other Skills** | **Git & GitHub**, **Webpack**, **Axios**, **React Router**, **Linux Environments** | Version Control, Module Bundling, HTTP Requests, Routing |
 
 ## `📊 GitHub Stats`
 <div style="display: flex; flex-direction: column; row-gap: 12px;">
