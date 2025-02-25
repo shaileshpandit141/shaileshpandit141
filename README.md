@@ -6,6 +6,16 @@
 ```
 ⚡ Full Stack Web Developer │ 🐍 Django │ 🐍 Django REST Framework │ ⚛️ React │ 🟨 JavaScript │ 💙 TypeScript │ 🔄 Redux
 ```
+<div class="bio-container">
+    <h2>
+    ⚡ Full Stack Web Developer │ 🐍 Django │ 🐍 Django REST Framework │ ⚛️ React │ 🟨 JavaScript │ 💙 TypeScript │ 🔄 Redux
+    </h2>
+  <style>
+    .bio-container {
+      background-color: red;
+    }
+  </style>
+</div>
 
 ```
 🌟 Turning ideas into impactful digital solutions!
