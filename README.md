@@ -23,7 +23,7 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ## `🛠️ Tech Stack and Skills`
 
-| **Category**             | **Technologies**                                                                                             | **Important Topics**                                                             |
+| **Category**             | **Technologies**                                                                                             | **Some Important Topics**                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | **Frontend**             | **React.js**, **JavaScript**, **TypeScript**, **Redux Toolkit**, **HTML5**, **CSS3**                         | Component Lifecycle, State Management, Hooks, Responsive Design                  |
 | **Backend**              | **Django**, **Django REST Framework**, **PostgreSQL**, **SimpleJWT**                                         | RESTful APIs, Authentication, ORM, Database Migrations                           |
