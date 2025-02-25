@@ -14,20 +14,20 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ## `🌟 About Me`
 
-| **Attribute**              | **Description**                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| 🖥️ **Passionate Developer** | Dedicated to crafting clean, efficient, and user-friendly solutions that meet client needs and enhance user experience. |
-| 🚀 **Continuous Learner**   | Committed to staying updated with the latest technologies and best practices to ensure cutting-edge solutions. |
+| **Attribute**              | **Description**                                                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 🖥️ **Passionate Developer** | Dedicated to crafting clean, efficient, and user-friendly solutions that meet client needs and enhance user experience.  |
+| 🚀 **Continuous Learner**   | Committed to staying updated with the latest technologies and best practices to ensure cutting-edge solutions.           |
 | 🛠️ **Problem Solver**       | Proficient in designing and implementing RESTful APIs, managing application state, and creating intuitive UX/UI designs. |
-| 🌈 **Driven by Excellence** | Strives to deliver high-quality work in every project, ensuring robust and scalable applications. |
+| 🌈 **Driven by Excellence** | Strives to deliver high-quality work in every project, ensuring robust and scalable applications.                        |
 
 ## `🛠️ Tech Stack and Skills`
 
-| **Category**             | **Technologies**                                                                                             | **Some Important Topics**                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| **Frontend**             | **React.js**, **JavaScript**, **TypeScript**, **Redux Toolkit**, **HTML5**, **CSS3**                         | Component Lifecycle, State Management, Hooks, Responsive Design                  |
-| **Backend**              | **Django**, **Django REST Framework**, **PostgreSQL**, **SimpleJWT**                                         | RESTful APIs, Authentication, ORM, Database Migrations                           |
-| **Tools & Other Skills** | **Git & GitHub**, **Webpack**, **Axios**, **React Router**, **Linux Environments** | Version Control, Module Bundling, HTTP Requests, Routing |
+| **Category**             | **Technologies**                                                                     | **Some Important Topics**                                       |
+| ------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Frontend**             | **React.js**, **JavaScript**, **TypeScript**, **Redux Toolkit**, **HTML5**, **CSS3** | Component Lifecycle, State Management, Hooks, Responsive Design |
+| **Backend**              | **Django**, **Django REST Framework**, **PostgreSQL**, **SimpleJWT**                 | RESTful APIs, Authentication, ORM, Database Migrations          |
+| **Tools & Other Skills** | **Git & GitHub**, **Webpack**, **Axios**, **React Router**, **Linux Environments**   | Version Control, Module Bundling, HTTP Requests, Routing        |
 
 ## `📊 GitHub Stats`
 <div style="display: flex; flex-direction: column; row-gap: 12px;">
@@ -42,5 +42,3 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
 
-Best regards,\
-Shailesh Pandit
