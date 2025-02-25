@@ -17,15 +17,11 @@ Welcome to my GitHub! I specialize in creating scalable, dynamic web application
 
 ## 🛠️ **Tech Stack & Skills**
 
-### 🖌️ Frontend
-🎨 **React.js** | 🟨 **JavaScript** | 💙 **TypeScript** | 🔄 **Redux Toolkit** | 🖼️ **HTML5** | 🎨 **CSS3**
-
-### 🔗 Backend
-🐍 **Django** | ⚙️ **Django REST Framework** | 🗂️ **PostgreSQL** | 🔑 **SimpleJWT**
-
-### ⚙️ Tools & Other Skills
-- 🌍 **Git & GitHub** | 📦 **Webpack** | ⚡ **Axios** | 🧭 **React Router**
-- 🐧 **Linux Environments** | 🚢 Deployment Workflows
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | 🎨 **React.js**, 🟨 **JavaScript**, 💙 **TypeScript**, 🔄 **Redux Toolkit**, 🖼️ **HTML5**, 🎨 **CSS3** |
+| **Backend**  | 🐍 **Django**, ⚙️ **Django REST Framework**, 🗂️ **PostgreSQL**, 🔑 **SimpleJWT** |
+| **Tools & Other Skills** | 🌍 **Git & GitHub**, 📦 **Webpack**, ⚡ **Axios**, 🧭 **React Router**, 🐧 **Linux Environments**, 🚢 **Deployment Workflows** |
 
 
 ## GitHub Stats
