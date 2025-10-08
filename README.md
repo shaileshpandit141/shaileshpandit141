@@ -17,7 +17,7 @@ Committed to staying updated with the latest technologies and best practices to 
 **🛠️ Problem Solver:**
 Proficient in designing and implementing RESTful APIs, managing application state, and creating intuitive UX/UI designs.
 
-**🌈Driven by Excellence:**
+**🌈 Driven by Excellence:**
 Strives to deliver high-quality work in every project, ensuring robust and scalable applications.  
 
 ## `🛠️ Skills`
