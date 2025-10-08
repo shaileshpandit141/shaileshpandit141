@@ -2,7 +2,7 @@
 
 > 👋 Hi there! I'm Shailesh
 
-`⚡ Full Stack Web Developer` `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
+`⚡ Full Stack Web Developer`
 
 Welcome to my GitHub! I specialize in creating scalable, dynamic web applications using a blend of Python, JavaScript, and modern frameworks. 🚀
 
