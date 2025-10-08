@@ -2,8 +2,6 @@
 
 > 👋 Hi there! I'm Shailesh
 
-`⚡ Full Stack Web Developer`
-
 Welcome to my GitHub! I specialize in creating scalable, dynamic web applications using a blend of Python, JavaScript, and modern frameworks. 🚀
 
 [`💼 Portfolio`](.) [`📄 Resume`](Shailesh-Pandit-Resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
@@ -24,25 +22,7 @@ Strives to deliver high-quality work in every project, ensuring robust and scala
 
 ## `🛠️ Skills`
 
-* **Backend:** Proficient in building robust server-side applications with Python frameworks
-  * **Django:** MVT architecture, Authentication, Forms, Admin Interface, Signals
-  * **Django REST Framework:** API development, Serializers, ViewSets, Authentication
-  * **PostgreSQL:** Database design, Complex queries, Performance optimization
-  * **SimpleJWT:** Token-based authentication, Security implementation
-* **Frontend:** Experienced in creating responsive and interactive user interfaces
-  * **React.js:** Components, Hooks, Context API, Virtual DOM
-  * **JavaScript:** ES6+, DOM manipulation, Async/Await, Promises
-  * **TypeScript:** Static typing, Interfaces, Generics, Type inference
-  * **Redux Toolkit:** State management, Actions, Reducers, Thunks
-  * **HTML5:** Semantic markup, Web APIs, Accessibility
-  * **CSS3:** Flexbox, Grid, Animations, Responsive design
-* **Tools & Other Skills:** Mastery of development tools and workflows
-  * **Git & GitHub:** Version control, Branching strategies, Collaboration
-  * **Webpack:** Module bundling, Asset optimization, Build configuration
-  * **Axios:** HTTP client, API integration, Request/Response interceptors
-  * **React Router:** Client-side routing, Navigation, Route protection
-  * **Linux Environments:** Shell scripting, Package management, System administration
-
+`🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
 
 ## `📊 GitHub Stats`
 
