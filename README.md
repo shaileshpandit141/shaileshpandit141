@@ -4,9 +4,7 @@
 
 `⚡ Full Stack Web Developer` `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
 
-> 🌟 Turning ideas into impactful digital solutions! 
-
-🌟 Turning ideas into impactful digital solutions!
+> 🌟 Turning ideas into impactful digital solutions!
 
 Welcome to my GitHub! I specialize in creating scalable, dynamic web applications using a blend of Python, JavaScript, and modern frameworks. 🚀
 
