@@ -22,8 +22,6 @@ Strives to deliver high-quality work in every project, ensuring robust and scala
 
 ## `🛠️ Skills`
 
-`🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
-
 `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux` `🎨 HTML` `💅 CSS` `🐘 PostgreSQL` `🧩 Git & GitHub` `💻 Linux (Ubuntu)`
 
 ## `📊 GitHub Stats`
