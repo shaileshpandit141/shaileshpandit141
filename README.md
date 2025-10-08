@@ -24,18 +24,7 @@ Strives to deliver high-quality work in every project, ensuring robust and scala
 
 `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
 
-<p align="center">
-  🐍 <b>Django</b> &nbsp;|&nbsp;
-  🌐 <b>Django REST Framework</b> &nbsp;|&nbsp;
-  ⚛️ <b>React</b> &nbsp;|&nbsp;
-  🟨 <b>JavaScript</b> &nbsp;|&nbsp;
-  💙 <b>TypeScript</b> &nbsp;|&nbsp;
-  🔄 <b>Redux</b> &nbsp;|&nbsp;
-  🎨 <b>HTML</b> &nbsp;|&nbsp;
-  💅 <b>CSS / Sass</b> &nbsp;|&nbsp;
-  🐘 <b>PostgreSQL</b> &nbsp;|&nbsp;
-  🧩 <b>Git & GitHub</b>
-</p>
+`🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux` `🎨 HTML` `💅 CSS` `🐘 PostgreSQL` `🧩 Git & GitHub` `💻 Linux (Ubuntu)`
 
 ## `📊 GitHub Stats`
 
