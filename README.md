@@ -31,7 +31,7 @@ Strives to deliver high-quality work in every project, ensuring robust and scala
   <img style="width: 100%; height: 100%; flex: 1;" src="https://github-readme-stats.vercel.app/api?username=shaileshpandit141&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🌐 `Let's Connect!`
+## `🌐 Let's Connect!`
 
 [`💼 Portfolio`](.) [`📄 Resume`](Shailesh-Pandit-Resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
 
