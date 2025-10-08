@@ -2,9 +2,9 @@
 
 > 👋 Hi there! I'm Shailesh
 
-> 🌟 Turning ideas into impactful digital solutions! 
-
 `⚡ Full Stack Web Developer` `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
+
+> 🌟 Turning ideas into impactful digital solutions! 
 
 🌟 Turning ideas into impactful digital solutions!
 
