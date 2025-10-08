@@ -1,9 +1,5 @@
 ![Banner Image](banner-image.png)
 
-```
-👋 Hi there! I'm Shailesh
-```
-
 > 👋 Hi there! I'm Shailesh
 
 `⚡ Full Stack Web Developer` `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
