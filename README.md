@@ -4,6 +4,8 @@
 👋 Hi there! I'm Shailesh
 ```
 
+> 👋 Hi there! I'm Shailesh
+
 `⚡ Full Stack Web Developer` `🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux`
 
 🌟 Turning ideas into impactful digital solutions!
@@ -26,7 +28,7 @@ Proficient in designing and implementing RESTful APIs, managing application stat
 **🌈Driven by Excellence:**
 Strives to deliver high-quality work in every project, ensuring robust and scalable applications.  
 
-## `🛠️ Tech Stack and Skills`
+## `🛠️ Skills`
 
 * **Backend:** Proficient in building robust server-side applications with Python frameworks
   * **Django:** MVT architecture, Authentication, Forms, Admin Interface, Signals
