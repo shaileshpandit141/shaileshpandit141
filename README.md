@@ -1,10 +1,10 @@
-![Banner Image](banner-image.png)
+![Banner Image](banner-image.jpeg)
 
 > 👋 Hi there! I'm Shailesh
 
 Welcome to my GitHub! I specialize in creating scalable, dynamic web applications using a blend of Python, JavaScript, and modern frameworks. 🚀
 
-[`💼 Portfolio`](.) [`📄 Resume`](Shailesh-Pandit-Resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
+[`💼 Portfolio`](.) [`📄 Resume`](shailesh-pandit-resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
 
 ## `🌟 About Me`
 
@@ -33,9 +33,8 @@ Strives to deliver high-quality work in every project, ensuring robust and scala
 
 ## `🌐 Let's Connect!`
 
-[`💼 Portfolio`](.) [`📄 Resume`](Shailesh-Pandit-Resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
+[`💼 Portfolio`](.) [`📄 Resume`](shailesh-pandit-resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141)
 
 ---
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
-
