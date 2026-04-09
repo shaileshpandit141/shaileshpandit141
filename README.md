@@ -1,40 +1,41 @@
-![Banner Image](banner-image.jpeg)
+<div style="display: flex; flex-direction: column; row-gap: 12px;">
+  <img style="width: 100%; height: 100%; flex: 1;" src="banner-image.jpeg" alt="Banner-Image" />
+</div>
 
-> 👋 Hi there! I'm Shailesh
+<br>
 
-Welcome to my GitHub! I specialize in creating scalable, dynamic applications using a blend of Python, JavaScript, and modern frameworks. 🚀
+> *👋 Hi there! I'm Shailesh*
 
-[`💼 Portfolio`](.) [`📄 Resume`](shailesh-pandit-resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141) [`📱 +917970367915`](tel:+917970367915)
+**Full Stack Developer focused on building scalable, high-performance web applications.**
 
-## `🌟 About Me`
+I work primarily with **Python (Django, DRF, FastAPI)** and **React.js**, designing secure APIs, managing complex state, and creating clean, responsive user interfaces.
 
-**🖥️ Passionate Developer:**
-Dedicated to crafting clean, efficient, and user-friendly solutions that meet client needs and enhance user experience.
+## 🚀 What I Do
 
-**🚀 Continuous Learner:**
-Committed to staying updated with the latest technologies and best practices to ensure cutting-edge solutions.
+- Build **scalable backend systems** with Django & FastAPI  
+- Design **secure, well-structured REST APIs**  
+- Develop **modern React applications** with efficient state management  
+- Optimize **performance, architecture, and code quality**
 
-**🛠️ Problem Solver:**
-Proficient in designing and implementing RESTful APIs, managing application state, and creating intuitive UX/UI designs.
+## 🛠️ Tech Stack
 
-**🌈 Driven by Excellence:**
-Strives to deliver high-quality work in every project, ensuring robust and scalable applications.  
+**Backend:** Python, Django, Django REST Framework, FastAPI  
+**Database:** SQL, PostgreSQL, SQLModel, Django ORM  
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React  
+**Version Control:** Git, GitHub  
+**Operating Systems:** Linux (Ubuntu)  
 
-## `🛠️ Skills`
+## 🌐 Connect With Me
 
-`🐍 Django` `🌐 Django REST Framework` `⚛️ React` `🟨 JavaScript` `💙 TypeScript` `🔄 Redux` `🎨 HTML` `💅 CSS` `🐘 PostgreSQL` `🧩 Git & GitHub` `💻 Linux (Ubuntu)`
+[`💼 Portfolio`](.) [`📄 Resume`](https://drive.google.com/file/d/1EZ9xJO6Ohenf639Dsosn-rmJbI7QTH8W/view?usp=drive_link) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141) [`📱 +917970367915`](tel:+917970367915)
 
-## `📊 GitHub Stats`
+<!-- ## 📊 GitHub Stats
 
 <div style="display: flex; flex-direction: column; row-gap: 12px;">
   <img style="width: 100%; height: 100%; flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshpandit141&layout=compact&theme=radical" alt="Top Languages" />
   <img style="width: 100%; height: 100%; flex: 1;" src="https://github-readme-stats.vercel.app/api?username=shaileshpandit141&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## `🌐 Let's Connect!`
-
-[`💼 Portfolio`](.) [`📄 Resume`](shailesh-pandit-resume-2025.pdf) [`🐦 Twitter`](https://twitter.com/shaileshonx) [`💌 Email`](mailto:shaileshpandit141@gmail.com) [`📚 LinkedIn`](https://linkedin.com/in/shaileshpandit141) [`📱 +917970367915`](tel:+917970367915)
+</div> -->
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's build something amazing together!
+💡 *Always building, always learning, always improving.*
